@@ -1,4 +1,4 @@
-# Your password
+@^IZHex5(D5wJ5aTsBWDucva# Your password
 
 Creating an extension [of this post about resetting your password](https://wordpress.org/documentation/article/resetting-your-password/), but placing all technical details here.
 
